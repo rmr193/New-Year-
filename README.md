@@ -26,3 +26,4 @@ duo
 exam
 exam sesh
 new app
+no net
