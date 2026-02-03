@@ -29,3 +29,5 @@ new app
 no net
 language learner
 design time
+new idea
+
